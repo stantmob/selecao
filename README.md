@@ -105,10 +105,10 @@ Otimizando CSS em aplicações Rails 30min
 17:00 Evento de Networking
 
 ## Instruções
-Você deve produzir uma solução para o problema acima utilizando **Ruby**, **Javascript** ou **Elixir**.
+Você deve produzir uma solução para o problema acima utilizando **Ruby**, **Javascript** ou **Elixir** (Teste para desenvolvedor web), **Java** ou **Kotlin** (Teste para desenvolvedor Android), ou **Swift** (Teste para desenvolvedor IOS).
 
 No diretório raiz do repositório, você encontrará o arquivo ***proposals.txt***, que contém a lista de palestras que deverão ser organizadas. Seu programa deverá ser capaz de ler este arquivo e processar cada uma das palestras, para que o resultado seja exibido no formato especificado no exemplo exibido acima.
 
 Além de verificar se sua solução satisfaz as regras do problema, também avaliaremos outros aspectos, como o design de sua solução e seu domínio do paradigma da linguagem escolhida. Nós esperamos que você encaminhe um código que acredite ser de qualidade, um código que funcione e que tenha sido evoluído no decorrer de seu desenvolvimento.
 
-Outro requisito é o envio dos testes que você produziu para verificar sua solução. Os testes podem ser produzidos com **RSpec**, **Jasmine**, **ExUnit** ou ou qualquer outra suite de testes para a linguagem escolhida. Independente de serem feitos antes ou depois de criada a implementação, queremos ter a chance de observar sua habilidade em produzi-los e verificar as regras do problema.
+Outro requisito é o envio dos testes que você produziu para verificar sua solução. Independente de serem feitos antes ou depois de criada a implementação, queremos ter a chance de observar sua habilidade em produzi-los e verificar as regras do problema.
